@@ -1,17 +1,16 @@
 ---
 layout: post
 title: First Commit
-description: "Its ON, baby"
-headline: "Let's Fire up the Engines"
-categories: personal
-tags: 
-  - blogging
-  - jekyll
-imagefeature: "website-speed.jpg"
+description: 'Its ON, baby'
+headline: Let's Fire up the Engines
+categories:
+  - personal
+tags: 'blogging,jekyll'
+imagefeature: website-speed.jpg
 imagecredit: spreadeffect.com
-imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
+imagecreditlink: 'http://www.spreadeffect.com/blog/improve-website-speed/'
 comments: false
-mathjax: null
+mathjax: false
 featured: true
 published: true
 ---
@@ -19,27 +18,27 @@ published: true
 >&quot;The beginning is the most important part of the work.&quot;
 ><small><cite title="Plato">Plato</cite></small>
 
-I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that. Anyways, the moment I thought about blogging, Wordpress flashed in my mind. Well, I used Wordpress [^1] in the past and it worked well for a while, then I had to face issues like high-traffic and high CPU load and unexpected spikes in my server. Well, those weren’t too much trouble, I would avoid fixing those bugs if I was busy, and sometimes I would leave the system untouched for 2 days straight and let the server admins frown and try to mitigate the outage (I had a pretty straight forward deal with my hosting provider, that no matter what, they can’t shut down my website). The PHP runtime errors weren’t a big deal, the hundreds of thousands of SQL database queries weren’t a trouble, sometimes the site would run a tad bit slower than average, but it was OK overall for me. A sample of the emails I would receive from my hosting provider is given below:
+I am a new STAY AT HOME MOM!!  I have been teaching in the classroom for 9 years, and at church for over 15 years.  I'm happy to announce my move to WeRteachers (links below) and 51Talk.  
+I'll be posting my transition and journey along with what works and did not for me.  I am so excited about this!  I will hopefully leave the traditional class behind and move forward to ONLINE!
+Why do I want to do this??  
 
-    tickets@hostgator.com
-    10/11/10
-    
-    to hmfaysal 
-    Hello, 
-    
-    
-    I apologize, but I was forced to suspend the script "/home/hmfaysal/public_html/hmfaysal.com/index.php" as it was causing a high load on the server, and due to it affecting all of the other accounts on the system, I was forced to take immediate action for the health of the server.g 
-    
-    I did notice that this was a Wordpress installation, and would recommend that you enable caching for it.
-    
-    Please note that if you already have caching enabled, you will need to take more action such as looking into any high use modules or plugins, and seeing if there are any updates, or possibly any that you can disable to reduce the load that your site causes. 
-    
-    If you reply back to this with your IP address (http://www.hostgator.com/ip.shtml) we will be more than happy to go ahead enable HTTP access for you, so that you can safely work on the script without it causing further issues. Please let me know how you would like to proceed.  
-  
-  
-But the game was changed when my site got hacked. Wordpress is notorious in getting hacked. The PHP code libraries are huge, and while Automattic tries to keep it relatively clean and bug free, bugs do persist among the thousands of lines of codes and every once in a while a bug gets discovered by the code breakers. If the bug can be exploited in some way to gain access of the site, the code breakers tend to do some serious damage. While I wasn’t been exclusively targeted by such individuals, I was part of a victimized group who used the same version of Wordpress, and all of our sites got defaced by some mass defacing software. Although it didn’t do serious damage, as I have daily off-site backup, I became dubious about the Wordpress platform.
+Number 1-- MY BABY!! He is 2 now and I must be with him, whatever it takes :).
+Number 2-- Legislation is ruining the fun of teaching for the teacher.  My sister in law were talking about how many MANY years ago, once a teacher married and had children they could no longer teach.  We now see why...
+So many teachers choose the profession based on the promise of helping others, while being able to spend time with your family.  Based upon my experience last year, those days are gone unless you land in the right school who backs the teacher and pushes against the mounds of rules, regulations, and stress.
+I love teaching, I have had many successful years and reviews until this past year.  What changed?  The administration.  Pure and simple, all that changed was the school and the bosses.  
+Since last year, I have contacted my old bosses and declared they were totally AMAZING to me.  With a new boss and new demands I was all of a sudden the worst teacher they had ever seen.  
+How could I go from being great to horrible?  The only thing again, that changed, was the boss.  My boss hated me once I was hired.  They hired me because .... I have NO idea why.  But were very much against me (YES reverse racism was in effect against me).
+What I mean about reverse racism is no one ever thinks about my culture being discriminated against but I WAS!!!  The school was 99 percent of one race while I was that 1 percent not along with a couple other teachers.  It was not just the students (I loved them.) but the teachers and Administration. 
+I went to my Assistant Superintendent and told them of my issues, described my love for teaching and how now I cry all the way to work daily due to the hatred from staff, lack of support when discipling (it was a failing school, very bad discipline issues.), constant criticism, and constant interruption of my class to make me look bad in front of the students.
+His reply, "I think that is apart of teaching...my own daughter is a new teacher and tells me the same..."  His own daughter!!! He is an Assistant Superintendant of Schools in a large Parish and will not help his own daughter?!?  And guess what I did not cry daily my first year, it was rough, but I told him I am not a new teacher, I have been a teacher for nearly 10 years, I have never experienced this. 
+Surprise, surprise He did NOT help me.  I got my church together and we prayed and God opened a door for me to finish my year out in another school.  However, due to the fine print on my agreement (Oh did I mention they suggested I transfer to this WONDERFUL school... I'll tell the back story later), I would be forced to remain at that school for 3 years. 3 years??? I told him I have been hear a few weeks and I'm ready to go work as a greeter at Wal-Mart and totally leave a profession I have loved all these years.
+But, God had me.  I finished my year in a new parish.  Now, I'm trying to be home.
+Thank you WeRteachers.com!! Thank you 51talk!  I'm believing in Jesus name this will be enough to supplement our income.
 
+WeRteachers is an awesome site for online tutoring.  From their site I will be tutoring Math, Science, Act, Test preparation, and Study Skills.  I will be helping all ages.
 
-So, this time around, while I was still brainstorming for ideas and theme designs and what not, I decided to go back to Jekyll, or you may say, rather old school. Why not use plain static HTML files with some CSS styling and JS animations? Static sites are impossible to hack, as there are no codes needed to be run on the server. The only way a static site can be compromised if the code breakers have access to your FTP account. I have used Jekyll in the past during my college years. I was working as a Teaching Assistant in the Mathematics Dept, and I was supposed to post weekly course materials on the course website. The trouble was my Alma maters IT dept didn’t allow dynamic sites to run on the nodes, and I wasn’t going download the HTML files, edit them with Sublime text, and push them back onto the server every week. So I used Jekyll and GIT Version Control to do that for me. And it was so efficient that I would post materials daily instead of weekly. It was like love on first use. But Wordpress had lots of theme choices and for my personal site I decided to use Wordpress anyways disregarding the simpleness and speed static sites provided. After the takeover of my Wordpress powered blog happened, I turned to self written PHP sites and static sites completely. I have built a social network based on PHP for my peer group which is highly secure but when it comes down to speed it lags behind. So I built this site using Jekyll, a blog aware static site generator. I hope this site will perform as envisioned.
+https://werteachers.com/page/profile/170600218/?name=Huddleston&grade=3&subject=&sessiontype=2&rate=40%2F500
 
-[^1]: This domain previously hosted a Wordpress blog.
+For 51Talk, I will be teaching students ESL overseas!! YAY!
+
+51talk Referral link will be here within the week once I finish my training.
