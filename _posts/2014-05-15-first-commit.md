@@ -2,10 +2,12 @@
 layout: post
 title: First Commit
 description: 'Its ON, baby'
-headline: Let's Fire up the Engines
+headline: Let's Fire up the Engines - Ready to Work from Home!
 categories:
   - personal
-tags: 'blogging,jekyll'
+tags: >-
+  blogging,jekyll, mom, posh mom, posh tutor, math, science, teacher, educator,
+  51Talk, ESL
 imagefeature: website-speed.jpg
 imagecredit: spreadeffect.com
 imagecreditlink: 'http://www.spreadeffect.com/blog/improve-website-speed/'
@@ -13,6 +15,7 @@ comments: false
 mathjax: false
 featured: true
 published: true
+modified: '2017-08-10'
 ---
 
 >&quot;The beginning is the most important part of the work.&quot;
