@@ -39,8 +39,7 @@ But, God had me.  I finished my year in a new parish.  Now, I'm trying to be hom
 Thank you WeRteachers.com!! Thank you 51talk!  I'm believing in Jesus name this will be enough to supplement our income.
 
 WeRteachers is an awesome site for online tutoring.  From their site I will be tutoring Math, Science, Act, Test preparation, and Study Skills.  I will be helping all ages.
-
-https://werteachers.com/page/profile/170600218/?name=Huddleston&grade=3&subject=&sessiontype=2&rate=40%2F500
+[WeRTeachers](https://werteachers.com/page/profile/170600218/?name=Huddleston&grade=3&subject=&sessiontype=2&rate=40%2F500
 
 For 51Talk, I will be teaching students ESL overseas!! YAY!
 
