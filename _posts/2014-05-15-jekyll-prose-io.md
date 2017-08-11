@@ -6,7 +6,7 @@ mathjax: false
 featured: true
 comments: false
 headline: Making blogging easier for masses
-categories: 
+categories:
   - webdevelopment
 tags: jekyll
 ---
@@ -19,4 +19,6 @@ So I made a simple HTML document in notepad, and painstakingly put the contents 
 
 Then I found Jekyll, a true gem written in Ruby. I never took Ruby lessons, yet the code base which contained 16K LoC was easier to understand, and the usage was much more easier. I had to install Ruby, the corresponding Ruby DevKit and Jekyll locally on my machine to get my site up and running. Also, I could only publish from my machine only as that was the only machine had all the tools installed to compile a Jekyll site.
 
-This mode of workflow meant I was never truly mobile when it came to blogging. I always have
+This mode of workflow meant I was never truly mobile when it came to blogging. I always have.
+
+THIS IS THE ORIGINAL POST I USED TO COPY THIS SITE PER HIS ALLOWANCE.  Thank you Hossain Mohd. Faysal.
