@@ -29,14 +29,6 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-1215149826420569",
-    enable_page_level_ads: true
-  });
-</script>
-
 # Links to include in footer navigation
 # For external links add external: true
 links:
