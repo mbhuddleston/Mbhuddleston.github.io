@@ -8,7 +8,7 @@ tags:
   - Faysal
   - hmfaysal
 image:
-  feature: Hossain-Mohd-Faysal.jpg
+  feature: logoimage.jpg
 published: true
 ---
 
