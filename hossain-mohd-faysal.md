@@ -2,21 +2,33 @@
 layout: page
 permalink: /hossain-mohd-faysal/index.html
 title: HOSSAIN MOHAMMAD FAYSAL
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+tags:
+  - Hossain
+  - Mohd
+  - Faysal
+  - hmfaysal
 image:
   feature: Hossain-Mohd-Faysal.jpg
+published: true
 ---
 
   <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
 
 
-My name is **Hossain Mohd. Faysal**, and this is my personal blog.  
+My name is **MEL**, and this is my personal blog.  
 
-I am an PhD candidate in *Electrical Engineering* at the [School of Engineering and Applied Science](http://www.seas.upenn.edu/) at **University of Pennsylvania**. I am licensed as a Professional Engineer (P.E) to practice in the states of Texas, Massachusetts and California. I double majored in EECS and Mathematics during my undergraduate life at [Massachusetts Institute of Technology](http://www.mit.edu/), and currently focusing on Electrical Engineering for my post-graduate studies.
+I am a Wife, Mother, and Educator.  Due to a tremendous blessing of GOD a door has opened for me to stay at home and work therefore less time my baby is a way from me.
 
-At some point in the not-terribly-distant future, I hope to found a self-sustaining collective of clever people, for fun, profit(?), and the promotion of human life in the universe. This might wind up in Qatar, Bangladesh, Scandinavia, the Massachusetts Bay Area, the SF Bay Area, Japan, Germany, or the dustbin of overly idealistic plans. (Yes, I have a special bin for overly idealistic plans. In my district they can't be recycled with residential mixed paper.) The most challenging aspect of this concept is to curtail unproductive competition with other people who will inevitably have the same idea. (Some sort of cooperative federation...) I'm presently looking for people who might be interested in being a part of such an organization.
+I have a Bachelors in Math from MSU, my  Masters in Education from LA College (best school ever) am obtaining Gifted Certification from NSULA, and also graduated as a Massage Therapist from LA Institute of MT.
 
-Anyways, for now I'm just working toward changing the face of Electrical Engineering forever. Not that I necessarily expect to succeed, but it's something to strive for, and it's a fun problem to work on.
+My husband is a minister of [Livingway UPC](http://www.livingway.cc) and working on his degree as well.  He also maintains a onsite second job so that I may have less pressure in our financial area.
+God is good.  
+
+I am currently tutoring with [WeRTeachers](https://werteachers.com/page/profile/170600218), teaching EsL at [51 Talk](http://www.51talk.com/na?referrer=4825373), and the new local coordinater for [CCI Greenheart Foreign Exchange](https://www.cci-exchange.com/)
+
+I have also joined FREECODECAMP.org in order to gain coding knowledge and possibly obtain another avenue to work from home.  I highly recommend this site for anyone intersted.  It is totallt free and you can gain certifications by doing projects for Nonprofits. (I am not at that level yet.)  It's a great way to try it out for FREE!
+
+It was through them that I discovered Github, Prose.io, Jekyll, and made with the help of a creators generosity, my first website.
 
 
 >Entrepreneur
