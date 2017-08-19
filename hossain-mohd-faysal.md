@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hossain-mohd-faysal/index.html
+permalink: /posh-mom-mel/index.html
 title: Posh Mom- Mel
 tags:
   - posh
