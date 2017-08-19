@@ -12,7 +12,7 @@ image:
 published: true
 ---
 
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Posh Mom Mel">
+  <img src="{{ site.url }}/images/logoimage.jpg" alt="Posh Mom Mel">
 
 
 My name is **MEL**, and this is my personal blog.  
