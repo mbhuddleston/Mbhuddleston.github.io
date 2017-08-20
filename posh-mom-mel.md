@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /posh-mom-mel/index.html
-title: Posh Mom- Mel
+title: Posh Mom Mel
 tags:
   - posh
   - mom
@@ -17,9 +17,9 @@ published: true
 
 My name is **MEL**, and this is my personal blog.  
 
-I am a Wife, Mother, and Educator.  Due to a tremendous blessing of GOD a door has opened for me to stay at home and work therefore less time my baby is a way from me.
+I am a Wife, Mother, and Educator.  Due to a tremendous blessing of GOD a door has opened for me to stay at home and work.  Therefore less time my baby is a way from me.
 
-I have a Bachelors in Math from MSU, my  Masters in Education from LA College (best school ever) am obtaining Gifted Certification from NSULA, and also graduated as a Massage Therapist from LA Institute of MT.
+I have a Bachelors in Math from MSU, Masters in Education from LA College (best school ever), am obtaining Gifted Certification from NSULA, and also graduated as a Massage Therapist from LA Institute of MT.
 
 My husband is a minister of [Livingway UPC](http://www.livingway.cc) and working on his degree as well.  He also maintains a onsite second job so that I may have less pressure in our financial area.
 God is good.  
