@@ -9,7 +9,7 @@ tags:
   - teacher
 image:
   feature: logoimage.jpg
-published: false
+published: true
 ---
 
   <img src="{{ site.url }}/images/logoimage.jpg" alt="Posh Mom Mel">
