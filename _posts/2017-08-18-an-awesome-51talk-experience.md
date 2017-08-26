@@ -2,8 +2,8 @@
 layout: post
 published: true
 mathjax: false
-featured: false
-comments: false
+featured: true
+comments: true
 title: An Awesome 51Talk Experience
 ---
 <h1>51Talk - Week 1 <img src="IMG_5079.PNG" alt="Title" /></h1>
