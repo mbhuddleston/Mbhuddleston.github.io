@@ -12,7 +12,7 @@ categories:
   - personal
 tags: >-
   Hairprint, hair dye, natural hair dye, melanin, work at home mom, love,
-  instagood, mom, posh mom
+  instagood, mom, posh mom, posh hair
 ---
 <h11.><a href="http://hairprint.refr.cc/7NTPCWL">Hairprint</a></h1>
 
