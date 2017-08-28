@@ -4,7 +4,7 @@ published: true
 title: 51 Talk- Taking the Plunge
 mathjax: false
 featured: true
-comments: false
+comments: true
 video: 'https://www.youtube.com/watch?v=C6eOcd06kdk'
 type: video
 ---
