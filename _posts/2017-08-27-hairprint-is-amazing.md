@@ -14,7 +14,7 @@ tags: >-
   Hairprint, hair dye, natural hair dye, melanin, work at home mom, love,
   instagood, mom, posh mom, posh hair
 ---
-<h11.><a href="http://hairprint.refr.cc/7NTPCWL">Hairprint</a></h1>
+<h1><a href="http://hairprint.refr.cc/7NTPCWL">Hairprint</a></h1>
 
 <p>I have used <a href="http://hairprint.refr.cc/7NTPCWL">Hairprint</a> twice. I have dark brown hair with natural highlights. I have never died my hair whatsoever, recently had a baby, and my water is damaging my hair. After the second use I noticed a noticeable difference not only in the grey being gone but also in the glowing texture of my hair.</p>
 
