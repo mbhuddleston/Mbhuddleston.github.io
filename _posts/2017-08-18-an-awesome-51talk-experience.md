@@ -6,7 +6,7 @@ featured: true
 comments: true
 title: An Awesome 51Talk Experience
 ---
-<h1>51Talk - Week 1 <img src="51TALK.PNG" alt="Title" /></h1>
+<h1>51Talk - Week 1 <img src="51talk.PNG" alt="Title" /></h1>
 
 <h2>Loving It!</h2>
 
