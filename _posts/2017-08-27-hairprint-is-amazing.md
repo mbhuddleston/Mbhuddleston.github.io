@@ -3,7 +3,7 @@ layout: post
 published: true
 mathjax: false
 featured: false
-comments: false
+comments: true
 title: Hairprint is Amazing!
 description: 'Hairprint natural grey removal, without hair dye, personal experience.'
 headline: Hairprint is Amazing
