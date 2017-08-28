@@ -16,7 +16,7 @@ tags: >-
 ---
 <h1><a href="http://hairprint.refr.cc/7NTPCWL">Hairprint</a></h1>
 
-<p>I have used <a href="http://hairprint.refr.cc/7NTPCWL">Hairprint</a> twice. I have dark brown hair with natural highlights. I have never died my hair whatsoever, recently had a baby, and my water is damaging my hair. After the second use I noticed a noticeable difference not only in the grey being gone but also in the glowing texture of my hair.</p>
+<p>I have used <a href="http://hairprint.refr.cc/7NTPCWL">Hairprint</a> twice. I have dark brown hair with natural highlights. I have never dyed my hair whatsoever, recently had a baby, and my water is damaging my hair. After the second use I noticed a noticeable difference not only in the grey being gone but also in the glowing texture of my hair.</p>
 
 <p>Now I will preface this by mentioning that due to the length of my hair it was suggested I use more kits. So, I believe had I listened to this I would have noticed a tremendous difference the first use.</p>
 
