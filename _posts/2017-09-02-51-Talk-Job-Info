@@ -3,8 +3,8 @@ layout: post
 published: true
 title: 51 Talk Job Info
 mathjax: false
-featured: false
-comments: false
+featured: true
+comments: true
 description: Join 51 Talk
 modified: '2017-09-02'
 categories:
