@@ -10,19 +10,6 @@ mathjax: false
 featured: true
 comments: true
 title: Slow September!
----
-,---
-layout: post
-published: true
-categories:
-  - personal
-mathjax: false
-featured: true
-comments: true
-title: Slow September !
-description: Slow September
-modified: '2017-09-15'
-tags: 'ESL, online, teacher, 51talk, github, vipkid '
 headline: ''
 imagefeature: ''
 ---
