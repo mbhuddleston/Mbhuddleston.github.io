@@ -1,4 +1,4 @@
----
+,---
 layout: post
 published: true
 categories:
@@ -19,7 +19,7 @@ imagefeature: ''
 
 <p>I was afraid the day I had to cancel multiple bookings and take several days off, due to Hurricane Harvey, that I had lost favor with <a href="http://www.51talk.com/na?referrer=4825373">51 Talk</a> families.</p>
 
-<p>However I am happy to announce this month begins school and according to veteran teachers, it is always super slow until schedules are mapped out.</p>
+<p>However I am happy to announce, this month begins school and according to veteran teachers, it is always super slow until schedules are mapped out.</p>
 
 <p>I also discovered September is Ghost month and there is a National celebration of those dead throughout many different religions in China. </p>
 
