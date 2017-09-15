@@ -10,8 +10,6 @@ mathjax: false
 featured: true
 comments: true
 title: Slow September!
-headline: ''
-imagefeature: ''
 ---
 <h1><a href="http://www.51talk.com/na?referrer=4825373">51 Talk</a></h1>
 
