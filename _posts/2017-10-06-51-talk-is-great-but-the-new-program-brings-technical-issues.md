@@ -1,11 +1,16 @@
 ---
 layout: post
 published: true
+description: How to Guard against Tech Issues with 51 Talk
+modified: '2017-10-06'
 categories:
   - personal
+tags: >-
+  51talk, 51 talk, esl, vipkid, work at home, mom, dad, teacher, math, science,
+  reading, china
 mathjax: false
-featured: false
-comments: false
+featured: true
+comments: true
 title: 51 Talk is great but the New program brings Technical Issues.
 ---
 ## Join today, but be careful to screenshot ALL THINGS [51 Talk](http://www.51talk.com/na?referrer=4825373).
