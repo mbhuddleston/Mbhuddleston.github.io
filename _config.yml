@@ -134,7 +134,9 @@ prose:
             - name: "Interesting"
               value: interesting
             - name: "Web-Development"
-              value: webdevelopment
+              value: webdevelopment 
+            - name: "Health"
+              value: health
           alterable: true
       - name: "tags"
         field:
