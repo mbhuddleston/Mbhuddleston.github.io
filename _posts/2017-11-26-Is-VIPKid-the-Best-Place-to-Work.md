@@ -1,6 +1,12 @@
 ---
+layout: post
 published: true
+mathjax: false
+featured: true
+comments: true
+title: Deciding which ESL company with whom to work.
 ---
+
 ## Deciding which ESL company with whom to work.
 
 VIPKid is one of 51Talk's competitors and one who is best known in the USA. I will research and discuss what I learn of other companies as I study them more.  However the following article is very interesting concerning the work ethic of VIPKid.
