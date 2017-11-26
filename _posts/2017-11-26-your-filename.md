@@ -5,7 +5,7 @@ published: false
 
 VIPKid is one of 51Talk's competitors and one who is best known in the USA. I will research and discuss what I learn of other companies as I study them more.  However the following article is very interesting concerning the work ethic of VIPKid.
 
-https://www.bloomberg.com/news/articles/2017-11-21/grieving-mother-s-firing-sparks-backlash-against-chinese-education-startup
+[Grieving Mother’s Firing Sparks Backlash Against Chinese Education Startup](https://www.bloomberg.com/news/articles/2017-11-21/grieving-mother-s-firing-sparks-backlash-against-chinese-education-startup)-
 
 This article was written November 21st.
 
