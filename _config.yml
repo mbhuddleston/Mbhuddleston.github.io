@@ -24,7 +24,6 @@ owner:
   google_plus:    https://plus.google.com/111276332141819406232
 
 # Analytics and webmaster tools stuff goes here
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104929583-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
