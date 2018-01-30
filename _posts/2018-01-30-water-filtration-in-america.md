@@ -16,12 +16,17 @@ title: Why I am getting a Bath Filter in the USA?
 After visiting other countries with dangerous water, it is hard to believe in our ultra filtered water in the USA, we would need an extra filtration system.  Before I would have laughed at anyone suggesting such an idea as here the chances of illness from our tap water is so slim it would probably only happen during a catastrophe in which the filtration system is compromised.  
 
 However, I began noticing a few things upon getting married (which I thought was the reason for my issues lol):  
-		1. My hair was becoming dry and brittle.
-    2. My hair was now getting shorter from breakage (No cutting at all.).
-    3. My skin was now much harder to manage.
-    4. I now have eczema on my elbows and knees for months and months which has NEVER happened before.
-    5. My conclusions that it was hormononal is false as I've made dietary changes which made me feel better but did not affect my hair.
-    6.  The only other change in my life was the move from my small nearby hometown to the main city.
+	1. My hair was becoming dry and brittle.
+	
+	2. My hair was now getting shorter from breakage (No cutting at all.).
+	
+	3. My skin was now much harder to manage.
+	
+	4. I now have eczema on my elbows and knees for months and months which has NEVER happened before.
+	
+	5. My conclusions that it was hormononal is false as I've made dietary changes which made me feel better but did not affect my hair.
+	
+	6.  The only other change in my life was the move from my small nearby hometown to the main city.
         
 So, recently I set to google.  Only to discover that many of my symptoms can be attributed to hard water.  I then asked around some others who did not live here their entire lives and discovered many others had hair and skin issues now as well!!
 
