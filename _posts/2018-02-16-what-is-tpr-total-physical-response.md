@@ -15,9 +15,9 @@ tags: >-
 ---
 ## TPR is not just for the kids (it keeps you awake:))
 
-![]({{site.baseurl}}/https://thumbs.dreamstime.com/z/dance-explosion-surreal-dancer-exploding-action-57864399.jpg)
+![dance.jpg]({{site.baseurl}}/images/dance.jpg)
 
-###What is TPR?
+### What is TPR?
 
 Total physical response is an approach to teaching second language that was developed in the 1970s by James Asher, professor of Psychology at the San Jose State University in California.
 
@@ -40,4 +40,3 @@ TPR works, sometimes the kids can learn the movement and the meaning before lear
 The more I learn TPR the more energy I feel in the morning and the less apt I am to fall asleep. (I am the type who can fall asleep while standing and talking.)
 
 TRY it for your ESL classes, you will love it.
-
