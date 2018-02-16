@@ -25,13 +25,15 @@ Asher saw that children’s early language repertoire consisted mainly of listen
 
 The child would look to the parents for instructions, and then perform the movements required. The child didn’t need to be able to say the words, only to listen and understand. Comprehension was the first step to language acquisition, not word production.
 
-Asher adopted this practice and the simple listen and respond technique now sits at the heart of TPR. It’s been proven effective for teaching beginners of foreign languages. For example, you could teach “¡Siéntense!” (sit down) in a Spanish class by repeatedly sitting down and saying “Siéntense.” You can ask the class to join you in sitting down, even making a game out of it, or commenting on the manner that some students sit.
+Asher adopted this practice and the simple listen and respond technique now sits at the heart of TPR. It’s been proven effective for teaching beginners of foreign languages.
 
-The act of moving is memory-friendly. By virtue of seeing you sit down, or experiencing the act themselves, your students will easily associate sitting down with siéntense. There’s something about the pairing of movement and language that’s so innate that children—without the help of textbooks—easily acquire language.
+The act of moving is memory-friendly. How many people who learn to ride a bike forget how?  Why is that? It is because of movements ability to help us remember.
 
-With TPR, not only do you have an approach that engages the energies of your students, you have a tool that creates memorable meaning through movement.
+With TPR, not only do you have an approach that engages the energies of your students, but also WAKES you up at the wee hours of the morning!!
 
-Just as TPR borrowed plenty of techniques and insights from psychologists and linguists like Dr. Krashen, it has also bequeathed a lot to approaches like TPRS (teaching proficiency through reading and storytelling).
+TPR works, sometimes the kids can learn the movement and the meaning before learning the word, I learned this personally from my young baby.  He could do sign language to communicate before learning to speak the words.  Now he is speaking so much, he is not using his signs :(( Sad mommy lol.
 
-Of course, TPR should not be used in isolation, but as one of many teaching tools in a language teacher’s bag.
+The more I learn TPR the more energy I feel in the morning and the less apt I am to fall asleep. (I am the type who can fall asleep while standing and talking.)
+
+TRY it for your ESL classes, you will love it.
 
