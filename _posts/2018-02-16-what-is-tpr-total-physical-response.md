@@ -7,7 +7,11 @@ mathjax: true
 featured: true
 comments: true
 title: What is TPR? (Total Physical Response)
-description: TPR
+description: What is TPR? (Total Physical Response)
+modified: '2018-02-16'
+tags: >-
+  TPR, total physical response, ESL, 51talk, VIPkid, teaching, math, science,
+  mom
 ---
 ## TPR is not just for the kids (it keeps you awake:))
 
