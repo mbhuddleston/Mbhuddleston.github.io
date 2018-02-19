@@ -1,3 +1,18 @@
+---
+layout: post
+published: true
+description: Magic Ears ESL
+headline: ''
+modified: '2018-02-19'
+categories:
+  - personal
+tags: 'Magic ears, esl, vipkid, 5talk, online teaching, virtual, teach at home'
+imagefeature: ''
+mathjax: true
+featured: true
+comments: true
+title: Applying to other ESL Companies
+---
 ## [Magic Ears](https://t.mmears.com?referralCode=T128464)
 
 So I have been researching other ESL companies because I promised I would, and at certain times of the year it becomes necessary to work for other companies due to low bookings.  [51 Talk](http://www.51talk.com/na?referrer=4825373) has lifted the ban on working for competing companies in an effort to foster more happiness among teachers.  Due to the season of the years and a LOT of holidays, their bookings have been low.  So now we are FREE to work elsewhere even for a competitor.
