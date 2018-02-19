@@ -1,17 +1,16 @@
 ---
 layout: post
 published: true
-description: Magic Ears ESL
-headline: ''
-modified: '2018-02-19'
 categories:
   - personal
-tags: 'Magic ears, esl, vipkid, 5talk, online teaching, virtual, teach at home'
-imagefeature: ''
 mathjax: true
 featured: true
 comments: true
-title: Applying to other ESL Companies
+title: Applying to Other ESL Companies
+description: Magic Ears
+modified: '2018-02-19'
+tags: >-
+  Magic ears, esl, vipkid, 5talk, online teaching, virtual, teach at home, TPR, total physical response, ESL, 51talk, VIPkid, teaching, math, science, mom
 ---
 ## [Magic Ears](https://t.mmears.com?referralCode=T128464)
 
@@ -28,11 +27,11 @@ So far they have an excellent repuation.  The company is new so they have no pro
 
 ## About [Magic Ears](https://t.mmears.com?referralCode=T128464)
 
-###What does [Magic Ears](https://t.mmears.com?referralCode=T128464) do?
+### What does [Magic Ears](https://t.mmears.com?referralCode=T128464) do?
 
 With innovative technology and qualified native English speaking teachers from America and Europe, Magic Ears provides 5-12-year-old children in China a natural and efficient online English learning experience, which allows teachers to focus on teaching English in a pleasant environment.
 
-###Getting Started
+### Getting Started
 _**Are there any restrictions on my location to work with [Magic Ears](https://t.mmears.com?referralCode=T128464)?**_
 
 
