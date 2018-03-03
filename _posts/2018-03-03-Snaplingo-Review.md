@@ -29,5 +29,10 @@ This is a newer company who only uses an app which works with your Android or Ap
 
 The following is a video intro into the Snaplingo App.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2cAbYLjNiPQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2cAbYLjNiPQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
+So far it seems exciting and the pay is competitive.  
+
+We shall SEE!!
