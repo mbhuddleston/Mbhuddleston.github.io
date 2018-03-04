@@ -3,7 +3,7 @@ layout: post
 published: true
 categories:
   - ESL
-mathjax: false
+mathjax: true
 featured: true
 comments: true
 title: Deciding which ESL company with whom to work.
