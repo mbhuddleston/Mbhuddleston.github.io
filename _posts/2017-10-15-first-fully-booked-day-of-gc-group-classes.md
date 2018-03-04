@@ -4,7 +4,7 @@ published: true
 description: First week of Fully Booked GC (for 4 days in a row)
 modified: 20147-10-15
 categories:
-  - personal
+  - ESL
 tags: '51talk, vipkid, esl, group classes, mom, posh, blogger'
 mathjax: true
 featured: true
