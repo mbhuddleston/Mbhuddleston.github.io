@@ -4,7 +4,7 @@ published: true
 description: First Full week of GC
 modified: '2017-10-22'
 categories:
-  - personal
+  - ESL
 tags: '51talk, vipkid, esl, mom, posh tutor, english, china'
 mathjax: true
 featured: true
