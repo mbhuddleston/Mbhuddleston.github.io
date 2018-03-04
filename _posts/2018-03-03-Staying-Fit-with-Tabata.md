@@ -2,7 +2,6 @@
 layout: post
 published: true
 categories:
-  - personal
   - Fitness
 mathjax: true
 featured: true
