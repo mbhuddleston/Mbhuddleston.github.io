@@ -4,7 +4,7 @@ published: true
 description: Slow September
 modified: '2017-09-15'
 categories:
-  - personal
+  - ESL
 tags: 'ESL, teacher, post, blog, work at home, stay at home, mommy, mom, posh, tutor'
 mathjax: false
 featured: true
