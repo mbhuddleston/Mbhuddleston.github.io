@@ -1,0 +1,22 @@
+---
+layout: page
+permalink: /podcast/index.html
+title: RHEMA Podcast - Food for the Soul
+tags:
+  - posh
+  - mom
+  - tutor
+  - teacher
+  - bible
+  - iluvacts238
+  - apostolic
+  - christian
+  - sermons
+image:
+  feature: logoimage.jpg
+published: true
+---
+
+  <img src="{{ site.url }}/images/logoimage.jpg" alt="Posh Mom Mel">
+
+
