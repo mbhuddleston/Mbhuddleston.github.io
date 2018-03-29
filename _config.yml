@@ -22,8 +22,8 @@ owner:
   instagram:      poshmomme
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/111276332141819406232
+  podlove:  <script>window.podcastData={"title":"Rhema ","subtitle":"Inspiration Everyday","description":"Inspiration to feed ourselves spiritually FREQUENTLY!! Be Inspired :).","cover":"https://4.bp.blogspot.com/-2xnl3iLqUAg/TjOQwm8EU1I/AAAAAAAAAA4/HG18Xo27owE/s113/la%2Bcamp%2Bglory%2Bcloud-1.jpg","feeds":[{"type":"audio","format":"mp3","url":"http://feeds.feedburner.com/blogspot/hRooZ","directory-url-itunes":"https://itunes.apple.com/us/podcast/rhema-apostolic-sermon-favorites-upci/id452917755?mt=2"}]}</script><script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="en" data-size="big" data-json-data="podcastData" data-color="#c927f1" data-format="cover" data-style="filled"></script><noscript><a href="http://feeds.feedburner.com/blogspot/hRooZ">Subscribe to feed</a></noscript> <img src="{{ site.url }}/images/logoimage.jpg" alt="Posh Mom Mel">
   
-# Analytics and webmaster tools stuff goes here
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
