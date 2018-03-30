@@ -7,6 +7,7 @@ categories:
   - personal
   - Spiritual
 tags: 'Prayer, marriage, stay at home mom, working dad, divorce, anger'
+imagefeature: 'mbhuddleston.github.io/images/Angry couple.PNG '
 mathjax: true
 featured: true
 comments: true
