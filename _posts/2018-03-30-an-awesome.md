@@ -1,18 +1,20 @@
 ---
 layout: post
 published: true
+description: This is a Powerful Prayer for EVEN the most INTENSE Stages of Marriage
+modified: '2018-03-30'
 categories:
   - personal
-mathjax: false
-featured: false
-comments: false
-title: An Awesome
+  - Spiritual
+tags: 'Prayer, marriage, stay at home mom, working dad, divorce, anger'
+mathjax: true
+featured: true
+comments: true
+title: An Awesome Marital Prayer - Ho
 ---
-## A Prayer for your Marriage
+## A Prayer for your Marriage when [Your Husband Feels Like your Enemy.](https://www.biblestudytools.com/bible-study/explore-the-bible/how-to-pray-when-your-husband-feels-like-your-enemy.html)
 
-
-
-This was found on the following website and I thought it was AWESOME!!
+This was found on the following [website](https://www.biblestudytools.com/bible-study/explore-the-bible/how-to-pray-when-your-husband-feels-like-your-enemy.html)and I thought it was AWESOME!!
 
 Betrayal from the one who promised to cherish you for the rest of your life leaves you in intense pain. You may experience waves of feeling hopelessly wounded, numb and oh so angry. The shock can rock your faith and put you at risk of adding to the problem.
 
