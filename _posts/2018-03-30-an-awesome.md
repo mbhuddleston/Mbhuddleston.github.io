@@ -18,7 +18,7 @@ This was found on the following [website](https://www.biblestudytools.com/bible-
 
 Betrayal from the one who promised to cherish you for the rest of your life leaves you in intense pain. You may experience waves of feeling hopelessly wounded, numb and oh so angry. The shock can rock your faith and put you at risk of adding to the problem.
 
-![]({{site.baseurl}}/images/Angry%20couple.PNG)
+![]({{site.baseurl}}/mbhuddleston.github.io/images/Angry couple.PNG )
 
 **My thoughts :  Betrayal does not only mean adultery, it can be lack of love, anger, resentments, being mean, lying (even about things that don't matter much), intense criticism, emotional abuse, spiritual abuse, etc...  All couples will feel the need for this prayer at some point.
 
