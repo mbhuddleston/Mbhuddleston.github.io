@@ -25,10 +25,10 @@ Your flesh may burn with thoughts of retaliation. The enemy of your marriage wil
 But you made a vow. You promised to love him until death separates you. How can you love him now?
 God gives you specific instructions to love your enemies and to pray for them.
 
-Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you. ( Luke 6:27–28)
+_Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you. ( Luke 6:27–28)_
 The following prayer will guide you to respond in obedience to God instead of reacting. A righteous response is a precursor to the peace you so desperately need. Praying will adjust your focus to God, the source of Your hope and help (Isaiah 32:17, 26:3; Psalm 121:2).
 
-O God, you are my defender and protector and today I cry out to You because my husband feels like my enemy (Psalm. 59:1).
+**O God, you are my defender and protector and today I cry out to You because my husband feels like my enemy (Psalm. 59:1).
 There is no end to the betrayal I feel. His words feel like daggers in my heart. This is the man who promised to cherish me. This is the man I promised to honor. How can this be?
 He relentlessly pushes me away with his tone of voice, his posture, and his words. He slays me with his sarcasm, ridicule, slander, and lies. Day and night he speaks to me and about me harshly, and other times he doesn’t speak to me at all (Psalm 59:7).
 
@@ -53,4 +53,4 @@ I believe You are fighting for us in the spiritual realm. I believe You are movi
 
 While I wait, I will sing of Your mighty strength and power. I will sing of Your mercy and loving-kindness day and night. You are my ultimate defense and place of refuge. You have been victorious through the generations to all who call on You in faith. I expect to see the victory in our marriage because You are my hiding place and I put all of my trust in You (Psalm 59:10, 100:5).
 
-My heart cry remains, Jesus is Lord over my marriage and my husband (Romans 10:9).
+My heart cry remains, Jesus is Lord over my marriage and my husband (Romans 10:9).**__
