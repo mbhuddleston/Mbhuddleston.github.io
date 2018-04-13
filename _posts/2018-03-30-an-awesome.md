@@ -15,7 +15,7 @@ title: 'An Awesome Marital Prayer '
 ---
 ## A Prayer for your Marriage when [Your Husband Feels Like your Enemy.](https://www.biblestudytools.com/bible-study/explore-the-bible/how-to-pray-when-your-husband-feels-like-your-enemy.html)
 
-This was found on the following [website](https://www.biblestudytools.com/bible-study/explore-the-bible/how-to-pray-when-your-husband-feels-like-your-enemy.html)and I thought it was AWESOME!!
+This was found on the following [website](https://www.biblestudytools.com/bible-study/explore-the-bible/how-to-pray-when-your-husband-feels-like-your-enemy.html) and I thought it was AWESOME!!
 
 Betrayal from the one who promised to cherish you for the rest of your life leaves you in intense pain. You may experience waves of feeling hopelessly wounded, numb and oh so angry. The shock can rock your faith and put you at risk of adding to the problem.
 
