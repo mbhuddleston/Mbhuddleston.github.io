@@ -1,11 +1,12 @@
 ---
 layout: post
 published: true
-categories:
-  - personal
-mathjax: false
-featured: false
-comments: false
+description: WORKING THIS MONTH!
+modified: '2018-05-06'
+tags: 'ESL, Vipkid, teaching'
+mathjax: true
+featured: true
+comments: true
 title: Awesome month!!
 ---
 ## Working at 3 Companies.
