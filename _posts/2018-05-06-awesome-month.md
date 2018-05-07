@@ -23,7 +23,7 @@ It is a learning experience and a friend of mine is also trying different compan
 
 She currently works for DADABC.  They are rearranging the company, changing the rules, etc... and she's getting nervous.  The complaints of teachers are escalating.  Here is a post from a friend who asked to be off a couple weeks for her dying husband :(.
 
-![]({{site.baseurl}}/https://github.com/mbhuddleston/mbhuddleston.github.io/blob/master/images/DADA.JPG)
+![DADA.jpg]({{site.baseurl}}/images/DADA.jpg)
 
 Dadabc has good ratings currently but things are shaking up with them according to employees, so beware.  VIPKID did a similar thing to someone and this is NOT COOL!!  (See my other post for a link to that article.)
 
