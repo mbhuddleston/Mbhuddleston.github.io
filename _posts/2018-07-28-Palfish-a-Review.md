@@ -34,7 +34,7 @@ Let’s take a look at the details.
 
 ### How to Get Started with [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)?
 
-####There are 2 Options for Teaching on [Palfish]  YOu can do [Either or Both]((https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746))
+###There are 2 Options for Teaching on [Palfish]  YOu can do [Either or Both]((https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746))
 !
 Option 1:  Sign up for [Official Kids Course](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)  The sign up process is fairly simple. All you need to do is follow these steps and you’re good to go:
 
@@ -66,7 +66,7 @@ Student’s have 10 minutes of time where they can talk to a teacher free of cha
 This is kind of like an interview stage where they decide if you are worth their money.
 With this in mind, staying online more often gives you a higher chance of getting a client.
 
-#### Set Your Own Rates or Join the [Official Kids Course] or do BOTH(https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746) and be paid a set fee
+#### Set Your Own Rates or Join the [Official Kids Course]((https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)) or do [BOTH]((https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)) and be paid a set fee
 
 Most tutoring programs have fixed rates that are generally pretty low.
 The cool thing about PalFish is that you can set your own rates!
