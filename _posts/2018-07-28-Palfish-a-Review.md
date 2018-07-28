@@ -17,11 +17,16 @@ title: Palfish - A "Social" Way to Teach
 If you’re a native English speaker, then you certainly can make money through this tutoring application.
 You don’t need any teaching experience or any type of qualifications to teach in this application.
 All you need to do is video chat with your student straight from your phone to earn money!
-What is [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)? 
+
+###What is [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)? 
 
 Specifically, [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746) is a mobile app available on both the Android and iOS, that lets you earn money by teaching English online through video calls.
+
+It is the ONLY platform I have found in which interaction with students is allowed.  The app follows the pattern of social media and you can do postings and message students, other teachers, and parents.  It is a really neat way to learn more about your students and interact with teachers from around the world.
+
 Teaching English online is a popular way to make some money while traveling in South East Asia.
 The app is popular because students want to put themselves in a natural English speaking environment so they can quickly learn English.
+
 But you don’t necessarily have to be a native-English speaker.
 Just having the ability to speak English as a native speaker is often enough. 
 The app was originally designed specifically for Chinese speaking nationals looking to learn English, but you might find students from other countries as well.
@@ -29,8 +34,8 @@ Let’s take a look at the details.
 
 ### How to Get Started with [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)?
 
-####There are 2 Options for Teaching on [Palfish]  YOu can do Either or Both!(https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)
-
+####There are 2 Options for Teaching on [Palfish]  YOu can do [Either or Both]((https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746))
+!
 Option 1:  Sign up for [Official Kids Course](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)  The sign up process is fairly simple. All you need to do is follow these steps and you’re good to go:
 
 [![]({{site.baseurl}}/images/officialkids.jpg)](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)
@@ -87,6 +92,8 @@ On the other hand, if you are just a native speaker who’s just starting off in
 So [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746) is one way to practice teaching English online.
 It's a cool way to teach and also interact with students.  
 Looking for other ways to make money online? Here’s an excellent course for you. Learn more by hitting the button below.
+
+##IF you need help passing the Official Kids Course Interview please email me for assistance.  I will be glad to give pointers in passing the interview.
 
 Now that you know what is [PalFish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746), what are your thoughts about the app? 
 Do you wish to talk about other online making applications and business opportunities? 
