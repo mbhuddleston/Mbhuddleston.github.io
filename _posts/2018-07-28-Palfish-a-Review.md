@@ -18,7 +18,7 @@ If you’re a native English speaker, then you certainly can make money through 
 You don’t need any teaching experience or any type of qualifications to teach in this application.
 All you need to do is video chat with your student straight from your phone to earn money!
 
-### What is [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)?
+### What is [Palfish]((https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746))?
 Specifically, [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746) is a mobile app available on both the Android and iOS, that lets you earn money by teaching English online through video calls.
 
 It is the ONLY platform I have found in which interaction with students is allowed.  The app follows the pattern of social media and you can do postings and message students, other teachers, and parents.  It is a really neat way to learn more about your students and interact with teachers from around the world.
