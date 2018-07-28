@@ -17,9 +17,9 @@ title: Palfish - A "Social" Way to Teach
 If you’re a native English speaker, then you certainly can make money through this tutoring application.
 You don’t need any teaching experience or any type of qualifications to teach in this application.
 All you need to do is video chat with your student straight from your phone to earn money!
-What is Palfish? 
+What is [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)? 
 
-Specifically, Palfish is a mobile app available on both the Android and iOS, that lets you earn money by teaching English online through video calls.
+Specifically, [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746) is a mobile app available on both the Android and iOS, that lets you earn money by teaching English online through video calls.
 Teaching English online is a popular way to make some money while traveling in South East Asia.
 The app is popular because students want to put themselves in a natural English speaking environment so they can quickly learn English.
 But you don’t necessarily have to be a native-English speaker.
@@ -31,13 +31,13 @@ Let’s take a look at the details.
 
 ####There are 2 Options for Teaching on [Palfish]  YOu can do Either or Both!(https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)
 
-1.Option 1:  Sign up for [Official Kids Course](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)  The sign up process is fairly simple. All you need to do is follow these steps and you’re good to go:
+Option 1:  Sign up for [Official Kids Course](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)  The sign up process is fairly simple. All you need to do is follow these steps and you’re good to go:
 
 [![]({{site.baseurl}}/images/Official%20Kids%20COurse.jpg)](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)
 
 Remember, it’s a mobile based application, so you’re going to need to whip out your phone and open that App Store.
 
-2. Sign up for the Freetalk/Seminar Side in which You Set the Rate.
+Option 2: Sign up for the Freetalk/Seminar Side in which You Set the Rate.
 Although it sounds awesome to set your own rate, be advised many will not pay a premium at first.  You will need to start cheap to gain a following.
 
 What’s Good About [PalFish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)?
