@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-description: Palfish a review
+description: Palfish-A Social Way to Teach
 modified: '2018-07-28'
 categories:
   - personal
