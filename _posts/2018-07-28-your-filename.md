@@ -4,6 +4,7 @@ published: true
 description: Palfish a review
 modified: '2018-07-28'
 categories:
+  - personal
   - ESL
 tags: 'Vipkid, ESL, Teaching online, Palfish, 51talk, workfromhome'
 mathjax: true
@@ -26,33 +27,36 @@ Just having the ability to speak English as a native speaker is often enough.
 The app was originally designed specifically for Chinese speaking nationals looking to learn English, but you might find students from other countries as well.
 Let’s take a look at the details.
 
-How to Get Started with Palfish?
+### How to Get Started with [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)?
 
-The sign up process is fairly simple. All you need to do is follow these steps and you’re good to go:
+1.The sign up process is fairly simple. All you need to do is follow these steps and you’re good to go:
 
 ![]({{site.baseurl}}/images/palfishteacher.jpg)
 
 Remember, it’s a mobile based application, so you’re going to need to whip out your phone and open that App Store.
-Upload a Picture. 
+
+2. Upload a Picture. 
+
 So, if decided to use a stock photo or a fake picture of yourself, you will most likely not get accepted.
 As for the type of photo you will want to use, try one that is both friendly and semi-professional.
 Most of the clients are kids so you will want to look like you have a lively, positive personality.
 Head-shots work well.
+
 Heads Up: It seems like the company only likes to hire Caucasian teachers. If you don’t look like a stereotypical English-speaker, the chances of you getting accepted are slim. 
+
 Set Your Rates. 
 If you’re not sure how much you should charge, we give some advice in a section down below.
 
-Refer Teachers. 
-So PalFish has a very simple affiliate system.
-Basically, if you refer a friend and he/she registers and is accepted, then you will get 20 RMB (About 3 USD).
-You will also get small rewards if you invite students and they pay for a class.
-What’s Good About PalFish?
+What’s Good About [PalFish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)?
 
-There are quite a few pros to using Palfish, some are listed below:
+There are quite a few pros to using [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746), some are listed below:
+
 Flexible Time Schedule
 One reason why this application is popular among teachers is that you can set your own hours.
 Traditional teaching jobs can be very stressful and time consuming while apps like PalFish let’s you choose how much you want to work and when.
+
 It’s important to remember that the majority of the clients are from China, so you will have to keep that in mind when setting up class dates. 
+
 Location Independent
 Another benefit of PalFish is that you only need a mobile phone with a working webcam and mic to tutor.
 Most tutoring programs online request that you have a high definition webcam and microphone.
@@ -64,14 +68,15 @@ Student’s have 10 minutes of time where they can talk to a teacher free of cha
 This is kind of like an interview stage where they decide if you are worth their money.
 With this in mind, staying online more often gives you a higher chance of getting a client.
 
-Set Your Own Rates
+Set Your Own Rates or Join the [Official Kids Course](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746) and be paid a set fee
+
 Most tutoring programs have fixed rates that are generally pretty low.
 The cool thing about PalFish is that you can set your own rates!
 Since the application is based in China, so you will be payed in Chinese Yuan.
 
 ![]({{site.baseurl}}/images/palfishteacher1.jpg)
 
-What Should I Charge?
+### What Should I Charge?
 
 When you are just getting started, we recommend that you set your prices on the lower end of the spectrum.
 Since the application has a rating system, it’s smart to start cheap to garner some positive reviews.
@@ -84,16 +89,12 @@ Remember, you will basically be competing with teachers across the globe.
 So all in all, if you have experience and higher education, then charging over $20 USD per hour isn’t unheard of.
 On the other hand, if you are just a native speaker who’s just starting off in this field, then around $10 USD per hour should do the trick.
 
-Conclusion
+### Conclusion
 
-So Palfish is one way to practice teaching English online.
+So [Palfish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746) is one way to practice teaching English online.
 It's a cool way to teach and also interact with students.  
 Looking for other ways to make money online? Here’s an excellent course for you. Learn more by hitting the button below.
 
-Now that you know what is PalFish, what are your thoughts about the app? 
+Now that you know what is [PalFish](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746), what are your thoughts about the app? 
 Do you wish to talk about other online making applications and business opportunities? 
-Feel free to comment below! 
-
-
-
-
+Feel free to comment below!
