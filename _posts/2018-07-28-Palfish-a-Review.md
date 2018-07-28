@@ -33,7 +33,7 @@ Let’s take a look at the details.
 
 Option 1:  Sign up for [Official Kids Course](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)  The sign up process is fairly simple. All you need to do is follow these steps and you’re good to go:
 
-[![]({{site.baseurl}}/images/Official%20Kids%20COurse.jpg)](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)
+[![]({{site.baseurl}}/images/officialkids.jpg)](https://www.ipalfish.com/klian/web/dist/teacher/mobile/invite/teacher_invite.html?uid=6722746)
 
 Remember, it’s a mobile based application, so you’re going to need to whip out your phone and open that App Store.
 
