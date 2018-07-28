@@ -71,7 +71,7 @@ Most tutoring programs have fixed rates that are generally pretty low.
 The cool thing about PalFish is that you can set your own rates!
 Since the application is based in China, so you will be payed in Chinese Yuan.
 
-![]({{site.baseurl}}/images/palfishteacher1.jpg)
+![palfish1.jpg]({{site.baseurl}}/images/palfish1.jpg)
 
 ### What Should I Charge? 
 
