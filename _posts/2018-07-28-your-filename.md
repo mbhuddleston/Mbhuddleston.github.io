@@ -1,12 +1,15 @@
 ---
 layout: post
 published: true
+description: Palfish a review
+modified: '2018-07-28'
 categories:
-  - personal
-mathjax: false
-featured: false
-comments: false
-title: ''
+  - ESL
+tags: 'Vipkid, ESL, Teaching online, Palfish, 51talk, workfromhome'
+mathjax: true
+featured: true
+comments: true
+title: Palfish - A "Social" Way to Teach
 ---
 ## Palfish a Review
 
