@@ -4,7 +4,7 @@ published: true
 description: How to Guard against Tech Issues with 51 Talk
 modified: '2017-10-06'
 categories:
-  - ESL
+  - 51 Talk
 tags: >-
   51talk, 51 talk, esl, vipkid, work at home, mom, dad, teacher, math, science,
   reading, china
