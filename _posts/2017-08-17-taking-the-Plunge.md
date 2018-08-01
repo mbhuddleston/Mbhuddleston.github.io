@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 51 Talk- Taking the Plunge
 categories:
-  - 51Talk
+  - 51 Talk
 mathjax: false
 featured: true
 comments: true
