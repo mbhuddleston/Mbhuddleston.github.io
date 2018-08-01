@@ -2,7 +2,7 @@
 layout: post
 published: true
 categories:
-  - personal
+  - Snaplingo
 mathjax: true
 featured: true
 comments: true
