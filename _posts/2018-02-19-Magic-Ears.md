@@ -2,7 +2,7 @@
 layout: post
 published: true
 categories:
-  - ESL
+  - Magic Ears
 mathjax: true
 featured: true
 comments: true
