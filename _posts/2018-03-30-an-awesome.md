@@ -4,7 +4,6 @@ published: true
 description: This is a Powerful Prayer for EVEN the most INTENSE Stages of Marriage
 modified: '2018-03-30'
 categories:
-  - personal
   - Spiritual
 tags: 'Prayer, marriage, stay at home mom, working dad, divorce, anger'
 imagefeature: 'mbhuddleston.github.io/images/Angry couple.PNG '
