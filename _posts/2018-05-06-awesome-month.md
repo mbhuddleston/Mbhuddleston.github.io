@@ -4,6 +4,8 @@ published: true
 description: WORKING THIS MONTH!
 modified: '2018-05-06'
 tags: 'ESL, Vipkid, teaching'
+categories:
+  - ESL
 mathjax: true
 featured: true
 comments: true
