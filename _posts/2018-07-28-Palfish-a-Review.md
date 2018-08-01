@@ -4,6 +4,8 @@ published: true
 description: Palfish-A Social Way to Teach
 modified: '2018-07-28'
 tags: 'Vipkid, ESL, Teaching online, Palfish, 51talk, workfromhome'
+categories:
+  - Snaplingo
 mathjax: true
 featured: true
 comments: true
