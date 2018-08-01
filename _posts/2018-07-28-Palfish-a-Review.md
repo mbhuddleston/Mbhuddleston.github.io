@@ -3,14 +3,13 @@ layout: post
 published: true
 description: Palfish-A Social Way to Teach
 modified: '2018-07-28'
-categories:
-  - personal
-  - ESL
 tags: 'Vipkid, ESL, Teaching online, Palfish, 51talk, workfromhome'
 mathjax: true
 featured: true
 comments: true
 title: Palfish - A "Social" Way to Teach
+categories:
+  - Palfish
 ---
 ## Palfish a Review
 
