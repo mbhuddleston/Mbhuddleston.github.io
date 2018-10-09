@@ -7,10 +7,10 @@ comments: true
 title: Magic Ears (ESL) How do I get started?
 categories:
   - Magic Ears
-  - ESL
   - Palfish
   - Snaplingo
-  - 51talk
+  - 51 Talk
+  - Esl
 tags: >-
   ESL, VIpkid, Teaching online, Nomad Teacher, 51talk, Magic Ears, ME,
   Snaplingo, 51talk, blog, Palfish
@@ -55,4 +55,4 @@ https://blablacommentz.com?u=Ja702Gtwe4u4FWYnTaPY
 
 12. Encourage students. Come up with 4 to 5 different phrases
  you can use to encourage your students. I encourage my
- students using phrases about 15-20 times in a 25-minute class. 
+ students using phrases about 15-20 times in a 25-minute class.
