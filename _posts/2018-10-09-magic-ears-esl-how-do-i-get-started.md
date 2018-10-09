@@ -1,20 +1,22 @@
 ---
 layout: post
 published: true
-mathjax: false
+mathjax: true
 featured: true
 comments: true
 title: Magic Ears (ESL) How do I get started?
 categories:
-  - personal
   - Magic Ears
   - Palfish
   - Snaplingo
   - 51 Talk
   - Esl
 tags: >-
-  ESL, VIpkid, Teaching online, Nomad Teacher, 51talk, Magic Ears, ME,
+  ESL, VIpkid, Teaching online, Nomad Teacher, 51 talk, Magic Ears, ME,
   Snaplingo, 51talk, blog, Palfish
+description: 'Teaching ESL Online, How to get started?'
+headline: Magic Ears - How do I get started?
+modified: '2018-10-09'
 ---
 ## [Magic Ears](https://t.mmears.com?referralCode=T128464)- What do you need to get started? (FOr ANY ESL Company)
 
