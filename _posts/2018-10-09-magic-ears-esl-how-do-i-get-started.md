@@ -6,6 +6,7 @@ featured: true
 comments: true
 title: Magic Ears (ESL) How do I get started?
 categories:
+  - personal
   - Magic Ears
   - Palfish
   - Snaplingo
@@ -30,7 +31,7 @@ advanced Logitech camera. http://www.logitech.com/enus/video/webcams  These came
 doorbell, turn off your notifications for programs on your computer
 and your phone. **(Again Noise cancelling headphones with a noise cancelling mic will help these be less noticeable if you forget!)**
 
-6. Reward system: You need to have rewards systems for many companies.  Magic Ears**DOES not**require or seem to encourage this.  For other companies I've preferred to use gel clings which stick on their on to pictures I place in sleeves made of plastic for ease of use. This way I don't need velcro, glue, or tape :).
+6. Reward system: You need to have rewards systems for many companies.  Magic Ears **DOES not** require or seem to encourage this.  For other companies I've preferred to use gel clings which stick on their on to pictures I place in sleeves made of plastic for ease of use. This way I don't need velcro, glue, or tape :).
 
 7. Props: Keep it simple when you get started. The amount of props you
 use is based on your teaching style.  Some companies require tons of props.  If this is the case I recommend gel clings (available at Target in the cheap section, walgreens, cvs pharmacy, etc..); inexpensive flash cards.  These can be purchased at the dollar tree, office depot, books a million, target (especially before school starts), etc...  Many people make their own but I found them to be so inexpensive to purchase some myself without all the printing and laminating.  
