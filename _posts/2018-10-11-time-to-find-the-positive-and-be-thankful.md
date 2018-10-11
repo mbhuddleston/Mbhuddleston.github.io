@@ -24,4 +24,6 @@ tags: >-
 Below you will find the first of a series of thankful videos!!  I will randomly think of things I like about [Magic Ears](https://t.mmears.com/?referralCode=T128464) and help explain what makes [Magic Ears](https://t.mmears.com/?referralCode=T128464) special to other companies.  
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T1bgTWPp0iQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/T1bgTWPp0iQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
