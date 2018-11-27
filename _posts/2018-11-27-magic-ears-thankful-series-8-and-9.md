@@ -9,6 +9,8 @@ description: Magic Ears Thankful Series Videos 8 and 9
 headline: Surprise $$ Bonus and the new FAST TRACK PROGRAM!
 modified: '2018-11-27'
 tags: 'VIPKId, 51talk, ESL, Magic Ears, Work at home, teach online, nomad, posh mom'
+categories:
+  - personal
 ---
 ## Attitude of Gratitude for my ONLINE ESL JOB with MAGIC EARS!!
 
@@ -25,10 +27,9 @@ Below you will find the 6th and 7th of a series of thankful videos!!  I am rando
 
 <div align="center">
   <iframe width="854" height="480" src="https://www.youtube.com/embed/CqjjxzPEGG0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>## A New Post
+</div>## THankful # 8
 
 
 <div align="center">
   <iframe width="854" height="480" src="https://youtube.com/embed/5ZQmwxuulo0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>## A New Post
-
+</div>## Thankful # 9
