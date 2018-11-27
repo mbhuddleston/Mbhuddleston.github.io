@@ -22,7 +22,7 @@ categories:
 ![]({{site.baseurl}}/images/magicears.jpg)
 
 
-Below you will find the 6th and 7th of a series of thankful videos!!  I am randomly thinking of things I like about [Magic Ears](https://t.mmears.com/?referralCode=T128464) and help explain what makes [Magic Ears](https://t.mmears.com/?referralCode=T128464) special to other companies.  
+Below you will find the 8th and 9th of a series of thankful videos!!  I am randomly thinking of things I like about [Magic Ears](https://t.mmears.com/?referralCode=T128464) and help explain what makes [Magic Ears](https://t.mmears.com/?referralCode=T128464) special to other companies.  
 
 
 <div align="center">
