@@ -6,7 +6,6 @@ featured: true
 comments: true
 title: Be ThANKFUL!! Magic Ears is WONDERFUL!
 categories:
-  - personal
   - Magic Ears
 description: Be Thankful!! Magic Ears is Wonderful!
 headline: Videos 6 and 7 explaining why I'm thankful for working at ME.
