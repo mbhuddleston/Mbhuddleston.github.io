@@ -6,6 +6,7 @@ featured: true
 comments: true
 title: Be ThANKFUL!! Magic Ears is WONDERFUL!
 categories:
+  - personal
   - Magic Ears
 description: Be Thankful!! Magic Ears is Wonderful!
 headline: Videos 6 and 7 explaining why I'm thankful for working at ME.
@@ -25,12 +26,9 @@ Below you will find the 6th and 7th of a series of thankful videos!!  I am rando
 
 <div align="center">
   <iframe width="854" height="480" src="https://www.youtube.com/embed/FhUI5JTm5AE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>## A New Post
+</div>## Thankful # 6
 
 
 <div align="center">
   <iframe width="854" height="480" src="https://youtube.com/embed/lvKE07qtI-M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>## A New Post
-
-
-
+</div>## Thankful # 7
