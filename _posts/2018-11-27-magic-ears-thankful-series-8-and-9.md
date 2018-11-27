@@ -10,7 +10,7 @@ headline: Surprise $$ Bonus and the new FAST TRACK PROGRAM!
 modified: '2018-11-27'
 tags: 'VIPKId, 51talk, ESL, Magic Ears, Work at home, teach online, nomad, posh mom'
 categories:
-  - personal
+  - Magic Ears
 ---
 ## Attitude of Gratitude for my ONLINE ESL JOB with MAGIC EARS!!
 
