@@ -2,10 +2,9 @@
 layout: post
 published: true
 categories:
-  - personal
   - ESL
 mathjax: true
-featured: false
+featured: true
 comments: true
 title: Chinese Counting!
 modified: '2018-11-27'
@@ -20,3 +19,7 @@ Counting with your fingers in Chinese is WAYYYYY different than in the American 
 
 
 ![Numbers 0 and 6 -10]({{site.baseurl}}/images/0 6 through 10.JPG)
+
+<div align="center">
+  <iframe width="854" height="480" src="https://youtube.com/embed/MEUObXxHUYI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>## Counting with your Hands in Chinese
