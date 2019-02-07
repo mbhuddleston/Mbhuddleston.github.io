@@ -1,12 +1,16 @@
 ---
 layout: post
 published: true
-categories:
-  - personal
-mathjax: false
-featured: false
-comments: false
+mathjax: true
+featured: true
+comments: true
 title: 'ESL Companies NOT Requiring a Degree '
+categories:
+  - ESL
+tags: '#Teaching online #Teach online without a degree #Vipkid'
+description: 'Can I teach without a Degree? '
+headline: 'Yes, you can teach without a Degree!'
+modified: '2019-02-07'
 ---
 ## HERE ARE A FEW Companies WHERE YOU CAN TEACH ESL ONLINE Without a DEGREE
 
