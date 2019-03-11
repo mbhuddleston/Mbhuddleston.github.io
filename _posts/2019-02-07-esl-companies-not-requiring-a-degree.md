@@ -6,6 +6,7 @@ featured: true
 comments: true
 title: 'ESL Companies NOT Requiring a Degree '
 categories:
+  - personal
   - ESL
 tags: '#Teaching online #Teach online without a degree #Vipkid'
 description: 'Can I teach without a Degree? '
@@ -20,7 +21,7 @@ What happens if you want to teach English online but don't have a bachelor's deg
 
 Here are 5 companies that let you teach English online without a bachelor's degree, with MAGIC Ears allowing you to teach if you are pursuing a degree.
 
-1. Cambly
+_**1. Cambly**_
 
 The Cambly platform enables you to engage in short chat sessions with students from around the world via webcam - no experience necessary. Students are more often than not adults. Cambly looks for native English-speakers from the USA, Canada, UK, Australia as well as some other countries. 
 
@@ -38,7 +39,8 @@ Step 3: Fill out your tutor profile as you'd like it to be viewable to students.
 
 Ready to apply? Click here. 
 
-2. PalFish
+
+_**2. PalFish**_
 
 PalFish is an app-based platform meaning you need an iOS (Apple) or Android cell phone/tablet in order for this to work for you. With PalFish, you can teach both one-on-one and larger groups of students. Non-native English speaking teachers are encouraged to apply. PalFish does not have any preference in regards to nationality for teaching positions. 
 
@@ -62,7 +64,7 @@ Step 5: Go to "My Wallet" and fill in your payment information. Once done, accou
 
 You can view a PalFish application checklist here.  
 
-3. SkimaTalk
+**_3. SkimaTalk_**
 
 The SkimaTalk platform looks for native English speakers with American, British, Canadian, Australian, New Zealand an/or Irish/English dialects. Those whose mother tongue is another language or dialect than those listed above will be asked to wait until SkimaTalk expands its teacher qualifications. A teaching certificate is not necessary. Students are more often than not adults, and are from all over the world. 
 
@@ -84,7 +86,8 @@ Step 3: Complete a few short, simple tests and then wait for approval and accoun
 
 5 Companies That Let You Teach English Online Without a Degree
 
-4. ABC360
+
+_**4. ABC360**_
 
 ABC360 looks for native English speakers but does not limit or judge you based on your education level. As long as you can pass their interview and training, you can become a ABC360 English tutor. They focus on teaching people how to use English; so as long as you are able to use the English language fluently and comfortably in your daily life, you have a place at ABC360. Although having a British or American accent is a definite edge, having a neutral or unobvious accent is fine. With ABC360, you will mainly be teaching Chinese children, ages 5-15 years old in one-on-one classes. 
 
@@ -108,7 +111,8 @@ Teach English Online: Your Guide on
 How to Make Money & Travel the World.
 DOWNLOAD AS PDF FILE
 
-5. Open English
+
+**_5. Open English_**
 
 Open English is the most renowned online English school in Latin America. Open English offers online, live classes with American teachers 24x7. Small group classes are most common, but the opportunity for one-on-one classes also exists. Students range in ages fro children to adults. Preference given to those that can also speak Spanish or Portuguese.
 
@@ -134,9 +138,7 @@ Step 6: Complete your work schedule hours and availability and submit your appli
 
  Interested in applying? You can do so here. 
 
-5 Companies That Let You Teach English Online Without a Degree
-
-Special Mention: SayABC
+_**6. SayABC**_-
 
 A special mention goes out to SayABC. Why? They encourage teachers to apply even without a bachelor's degree.
 
@@ -155,15 +157,15 @@ Hours: You control your own schedule to fit around your lifestyle and can work f
 
 Application Process: Becoming a SayABC teacher is made up of a few simple steps:
 
-Step 1: Sign up on the website.
+- Step 1: Sign up on the website.
+- 
+- Step 2: Interview for 40 minutes (this includes a 15-minute demo class).
+- 
+- Step 3: Consulting agreement signing.
+- 
+- Step 4: Orientation meeting and evaluation class.
+- 
+- Ready to apply? Awesome. Click here.
 
-Step 2: Interview for 40 minutes (this includes a 15-minute demo class).
-
-Step 3: Consulting agreement signing.
-
-Step 4: Orientation meeting and evaluation class.
-
-Ready to apply? Awesome. Click here. 
 
  - - - - - -
-
