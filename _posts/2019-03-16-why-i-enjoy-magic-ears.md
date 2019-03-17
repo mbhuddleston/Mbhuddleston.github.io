@@ -1,12 +1,18 @@
 ---
 layout: post
 published: true
-categories:
-  - personal
-mathjax: false
-featured: false
-comments: false
+mathjax: true
+featured: true
+comments: true
 title: 'Why I enjoy Magic Ears!! '
+description: Why I enjoy working for Magic Ears!
+headline: ME responds positively to my Blunder
+modified: '2019-03-16'
+categories:
+  - ESL
+  - Magic Ears
+  - Personal
+tags: 'Vipkid, ESL, Magic Ears, ME, working from home, blunders, positivity'
 ---
 ## [Magic Ears](https://t.mmears.com/?referralCode=T128464) Responds Positively to my Blunder
 
