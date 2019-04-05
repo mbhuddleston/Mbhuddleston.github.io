@@ -3,10 +3,13 @@ layout: post
 published: true
 categories:
   - personal
-mathjax: false
-featured: false
-comments: false
+mathjax: true
+featured: true
+comments: true
 title: 'HOLIDAY AGAIN!  "Tomb Sweeping Day" '
+description: Chinese Holiday!  "Tomb Sweeping Day"
+modified: '2019-04-05'
+tags: Chinese Culture
 ---
 ## Tomb Sweeping Festival Vocabulary
 
