@@ -16,11 +16,23 @@ tags: >-
 ---
 ## HOW TO OBTAIN JOY, PEACE, TREASURES, SUCCESS AND LEAVE A LEGACY...
 
-###_FLOW - by Nona Freeman
+Recently I have been contemplating my life spiritually.  I have been asking myself questions (or rather the spirit is prompting me too...)  such as, Who do I want to be like?  Of course Jesus, but those who are not Jesus with spiritual, emotional, and family successes that are legends in Pentecost.  Of these who do I want to be?
 
-APRIL 8, 2015-from Nona Freeman's book 'In the Bag':-
+Do I want to be like many today? Trying to fit in with the world and deny who we are in small areas.  Or those who want to do enough to seem successful without truly having to deny myself?
 
-We camped in makeshift quarters in 1952 while we built our home in South Africa. During an invasion of non-poisonous spiders (the size of a small fist), we became so weary of getting up at night to identify "something that crawled across my arm" or "on my face" that we bought the older children a small flashlight so they could conduct some of the frequently needed 'spider' investigations.
+Once my pastor was seeking the Lord and asked what these "legends of Pentecost,"  had in common?  What secret formula did they obtain?  Was there a secret program of the time period that they followed?
+
+No said the Lord, their common element was FASTING, PRAYER, SACRIFICE!  
+
+God told him there was no way around it.  If you want to be significant in God's kingdom and your family... you MUST do these things consistently.  
+
+God has also been dealing with me about the power and flowing of the spirit of God in life and churches.  I came upon this:
+
+_FLOW - by Nona Freeman
+
+APRIL 8, 2015-from Nona Freeman's book 'In the Bag'
+
+We loved with a love that was more than love.  We camped in makeshift quarters in 1952 while we built our home in South Africa. During an invasion of non-poisonous spiders (the size of a small fist), we became so weary of getting up at night to identify "something that crawled across my arm" or "on my face" that we bought the older children a small flashlight so they could conduct some of the frequently needed 'spider' investigations.
 When the brilliant light in my face nudged me out of sound sleep, I thought a spider-hunter needed help. I opened my eyes to see a Being clothed in exquisite light standing by my bed. I trembled, immobilized by fear. 'Do not be afraid", a soft yet vibrant voice answered my distress, "I am a messenger sent by God to give you the secret of revival."
 
 Disturbed by our ineffectual outreach to the lost, my husband and I shared a time of prayer and fasting that ended early in November. He left the next day for the Eastern Transvaal to visit a new church; I took charge of the service in the current tent meeting in an area called Claremont. The heavenly visitor came the following morning at 3:00 AM and said, "I am here in response to your cry for a Pentecostal outpouring."
@@ -72,4 +84,6 @@ When the Spirit whispers the word 'flow', that's a signal that you must share wh
 
 With the last vibrant "Get the FLOW!" my guest left. The light faded, though a translucent glow lingered for some time. I lay motionless until dawn, humbly thanking God for His incomparable mercy. My heart cry that night long ago is still with me. "I want the Flow!"
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The following is a photo of her actual handwriting!
+
+![IMG_0597.jpg]({{site.baseurl}}/images/IMG_0597.jpg)
