@@ -16,13 +16,19 @@ tags: >-
 ---
 ## HOW TO OBTAIN JOY, PEACE, TREASURES, SUCCESS AND LEAVE A LEGACY...
 
-Recently I have been contemplating my life spiritually.  I have been asking myself questions (or rather the spirit is prompting me too...)  such as, Who do I want to be like?  Of course Jesus, but those who are not Jesus with spiritual, emotional, and family successes that are legends in Pentecost.  Of these who do I want to be?
+Recently, I have been contemplating my spirituality and dreams. The spirit has prompted me to ask questions of myself such as:  Who do I want to be like?  Besides the ultimate goal of being like Jesus -- Of those with significant spiritual, emotional, and family successes, who do I want to be like?
 
-Do I want to be like many today? Trying to fit in with the world and deny who we are in small areas.  Or those who want to do enough to seem successful without truly having to deny myself?
+Do I want to be like many today? -- Trying to fit in with the world and deny who we are in small areas.  
+Or those who want to do **enough** to seem successful without truly having to deny themselves?
 
-Once my pastor was seeking the Lord and asked what these "legends of Pentecost,"  had in common?  What secret formula did they obtain?  Was there a secret program of the time period that they followed?
+Do I want to be passionate and do the hard work spiritually as well as looking into new or useful methods?
+Or, do I want to be lazy, seeking methodology only and trying to use entertainment to reach the lost because I am not flowing in the Spirit?  Will  I fall into a trap in which I choose not to be different and allow our church to be known for it's great programs only and nice people?  Or will I be who I am in Christ and flow in the Spirit to such a degree that I am a pipeline for the spirit?  A conduit for his power.  Enabling him to continue on and DRAW the revival to him? 
 
-No said the Lord, their common element was FASTING, PRAYER, SACRIFICE!  
+_In the second scenario my name is not known, my church name may not be known, but they will know JESUS!_****
+
+Once my pastor was seeking the Lord and asked what these "legends of Apostolic Revival,"  had in common?  What secret formula did they obtain?  Was there a secret program of the time period that they followed then or now?
+
+No, said the Lord, their common element is FASTING, PRAYER, SACRIFICE!  
 
 God told him there was no way around it.  If you want to be significant in God's kingdom and your family... you MUST do these things consistently.  
 
