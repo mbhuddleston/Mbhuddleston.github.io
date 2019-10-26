@@ -28,7 +28,7 @@ God told him there was no way around it.  If you want to be significant in God's
 
 God has also been dealing with me about the power and flowing of the spirit of God in life and churches.  I came upon this:
 
-_FLOW - by Nona Freeman
+_**FLOW - by Nona Freeman**_
 
 APRIL 8, 2015-from Nona Freeman's book 'In the Bag'
 
