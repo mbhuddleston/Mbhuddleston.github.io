@@ -62,19 +62,19 @@ The congregation sang a mellow, old song and the sweet sound flowed out in rainb
 They embraced her as they prayed for her. Minutes later, they led her into the church while she glorified God, speaking in other tongues. As I witnessed how the Spirit changed lives, my soul cried a silent question, "What prevents the 'flow' of the Spirit in me?" The answer came gently. "A guise of spirituality and a mere profession of salvation are empty vanities without the 'flow' of the Spirit."
 
 "I will name in everyday language the most common hindrances for you:-
-UNBELIEF - FEAR
-DISOBEDIENCE - REBELLION
-JEALOUSY - BITTERNESS
-HATRED - MALICE
-STUBBORNNESS
-LUST - COVETEOUSNESS
-GREED - SELFISHNESS
-ANXIETY - WORRY
-JUDGING - CRITICISM
-GRUMBLING - COMPLAINING
-PRIDE – AMBITION –
-THE DESIRE TO HAVE A NAME OF SPIRITUALITY 
-TEMPER - IMPATIENCE
+-UNBELIEF - FEAR
+-DISOBEDIENCE - REBELLION
+-JEALOUSY - BITTERNESS
+-HATRED - MALICE
+-STUBBORNNESS
+-LUST - COVETEOUSNESS
+-GREED - SELFISHNESS
+-ANXIETY - WORRY
+-JUDGING - CRITICISM
+-GRUMBLING - COMPLAINING
+-PRIDE – AMBITION –
+-THE DESIRE TO HAVE A NAME OF SPIRITUALITY 
+-TEMPER - IMPATIENCE
 
 These are the evils that block the moving of the Spirit through you. When the flow stops, you usually fall back on your own resources and 'make-do' instead of cleaning out the obstructions. Child, you must learn to repent often. Confess and overcome your besetting faults. Ask forgiveness frequently of others. Only the cleansing blood of Jesus can remove the barriers of your soul.
 
