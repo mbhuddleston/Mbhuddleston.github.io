@@ -8,14 +8,14 @@ categories:
 mathjax: true
 featured: true
 comments: true
-title: Devotions of Meme
+title: Devotions of Meme - How the Scripture Encourages us to Pray
 description: Devotions of Meme
 modified: '2019-11-07'
 tags: >-
   Devotion, Apostolic, Prayer, Pray, Nona Freeman, Vesta Mangun, Jesus, Love,
   Mom, ESL teacherd
 ---
-## Sermonettes by Kathryn
+## Sermonettes by Kathryn - How the Scripture Encourages us to Pray
 
 My great-grandmother was an amazing woman of faith.  SHe was also a minister and for many years wrote short sermons for her ladies group. I have decided to randomly pick one and type it as often as I can.  THey will encourage and inspire greatness in the Lord.
 
