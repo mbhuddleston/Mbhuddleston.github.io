@@ -3,10 +3,18 @@ layout: post
 published: true
 categories:
   - personal
-mathjax: false
-featured: false
-comments: false
+  - Spiritual
+  - Sermonettes of Meme
+mathjax: true
+featured: true
+comments: true
 title: Devotions of Meme - The Riches of God's Grace
+description: Devotions of Meme
+headline: The Riches of God's Grace
+modified: '2019-11-26'
+tags: >-
+  ESL, Vipkid, 51talk, magic ears, devotions, spiritual, jesus name,
+  pentecostal, apostolic
 ---
 ## Sermonettes by Kathryn - The Riches of God's Grace
 
