@@ -18,11 +18,15 @@ tags: >-
 ---
 ## Create a Church Book for Kids
 
-I was researching online some activities for my child to get him more engaged during all these services we are attending.  I also wanted him to begin learning how to take notes during service.
+As we are home during quarantine and cannot attend service.  I decided to look up a way to keep him even more engaged so we can maintain our rules set forth for church in person. (Only certain things are allowed during service.)  
 
-I stumbled upon these awesome pages on Pinterest.  I will attach my photos and attach the links to get the materials as I did not create them.
+Today I began looking for note for myself as I study the book of Haggai and discovered ideas for Kids notes.  My son is only 4 so I needed to find something he could at least partially do himself with little assistance.  
 
-I am so excited.  He is a Not reading yet and the sermon notes for nonreaders is a big hit!  We cannot wait to use them tonight!
+I then stumbled upon these awesome book ideas from other mom's.  He's actually very excited to have this little game to play during each service.  It'll be an excellent way to teach him how to take notes, and also help him recall even more information during services.
+
+I stumbled upon these awesome pages on Pinterest.  I will attach my photos and the links to get the materials.  I don't quite know the rules regarding this, so you can go to their pages to download them. 
+
+I am so excited.  We cannot wait to use them tonight!
 
 ![IMG_2073.jpg]({{site.baseurl}}/images/IMG_2073.jpg)
 
@@ -37,4 +41,3 @@ I am so excited.  He is a Not reading yet and the sermon notes for nonreaders is
 ![IMG_2075.jpg]({{site.baseurl}}/images/IMG_2075.jpg)
 
 [Listening Page with Symbols for Non-Readers](https://www.mamaslearningcorner.com/listening-pages-for-non-readers/# "Listening Page with Symbols for Non-Readers")
-
