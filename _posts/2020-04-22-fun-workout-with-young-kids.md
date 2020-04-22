@@ -3,10 +3,15 @@ layout: post
 published: true
 categories:
   - personal
-mathjax: false
-featured: false
-comments: false
+  - health
+mathjax: true
+featured: true
+comments: true
 title: Fun Workout with Young Kids!
+description: Fun Workout with Young Kids
+modified: '2020-04-22'
+headline: Mommy and Dad Quarantine Approved Workout
+tags: 'Workout, Quarantine, MOmmy and toddler, Daddy and Baby, Family workout'
 ---
 ## Quarantine Workout
 
