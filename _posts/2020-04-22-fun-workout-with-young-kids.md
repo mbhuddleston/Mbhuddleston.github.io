@@ -20,5 +20,5 @@ FOr all those mom's and dad's at home more with their young kids, I found a grea
 My son and I have frequently done exercises together, while I carried him and even held him. This workout was really fun and a great workout.  He laughed and had such fun the entire time.  Enjoy and WORKOUT!!
 
 <div align="center">
-  <iframe width="854" height="480" src="https://youtu.be/xgYsKKEAK5Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="854" height="480" src="https://youtube.com/xgYsKKEAK5Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>## Daddy and Mommy Workout
