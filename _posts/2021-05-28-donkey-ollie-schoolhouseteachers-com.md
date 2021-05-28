@@ -3,10 +3,16 @@ layout: post
 published: true
 categories:
   - personal
-mathjax: false
-featured: false
-comments: false
+  - Schoolhouseteachers.com
+mathjax: true
+featured: true
+comments: true
 title: Donkey Ollie @ Schoolhouseteachers.com
+description: Donkey Ollie @ Schoolhouseteachers.com
+modified: '2021-05-28'
+tags: >-
+  schoolhouseteachers.com, old schoolhouse, homeschool, christian, our father
+  prayer
 ---
 ## My son LOVES Donkey Ollie
 
