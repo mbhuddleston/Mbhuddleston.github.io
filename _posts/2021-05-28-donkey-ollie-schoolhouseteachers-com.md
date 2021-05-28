@@ -19,11 +19,11 @@ tags: >-
 ![donkeyollieand family.jpg]({{site.baseurl}}/images/donkeyollieand family.jpg)
 [Donkey Ollie Series](https://schoolhouseteachers.com/dap/a/?a=106527&p=www.https://schoolhouseteachers.com/school-subjects/bible/adventures-donkey-ollie/ "Donkey Ollie Series")
 
-This is our first series to use from the[Schoolhouseteachers](https://schoolhouseteachers.com/dap/a/?a=106527 ) site.
+This is our first series to use from the [Schoolhouseteachers](https://schoolhouseteachers.com/dap/a/?a=106527 ) site.
 
 I was not sure if he would enjoy it but my 5-year old finished the 10-day lesson plan in only 5 days.  He enjoyed the books so much and we just discovered so many more lessons, as well as VIDEOS!!
 
-You can find Donkey Ollie videos on youtube.  However, they are only small portions of the films.  The full films are 30-45 min long and very wonderful to go along with the books.
+You can find Donkey Ollie videos on youtube.  However, they are only small portions of the films.  The full films are 30-45 min long and very wonderful to go along with the books.  They are available to watch free with your subscription to [Schoolhouseteachers](https://schoolhouseteachers.com/dap/a/?a=106527 ) - [Donkey Ollie Series](https://schoolhouseteachers.com/dap/a/?a=106527&p=www.https://schoolhouseteachers.com/school-subjects/bible/adventures-donkey-ollie/ "Donkey Ollie Series")
 
 The books are fun and engaging with great pictures and aligned with the Word of God.
 
